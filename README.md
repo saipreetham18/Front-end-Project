@@ -25,4 +25,7 @@ This is an front end project by using reactjs.
   ~~~python
   def fun():
     print("hai")
-  ~~~  
+  ~~~ 
+  Table 1 | Table 2
+  --------|--------
+  Table body1|Table body2
